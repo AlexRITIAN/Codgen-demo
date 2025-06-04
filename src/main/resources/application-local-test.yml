@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://10.122.148.198:5432/om_dashboard_dev?currentSchema=duty
+    username: a_appconnect
+    password: aa%2UmZ@
